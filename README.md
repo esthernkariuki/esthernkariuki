@@ -1,7 +1,7 @@
-                                                                                        Hello! 👋 I'm Esther
-                                                                                              👨‍💻 Whoami
-              A resourceful software engineer, possessing knowledge of the software development lifecycle and a solid understanding of technologies 
-                                                            required for the development and deployment of scalable applications.
+                                                  Hello! 👋 I'm Esther
+                                                       👨‍💻 Whoami
+  A resourceful software engineer, possessing knowledge of the software development lifecycle and a solid understanding of technologies 
+                                          required for the development and deployment of scalable applications.
 
 
 
