@@ -1,5 +1,4 @@
-                                                  Hello! 👋 I'm Esther
-                                                       👨‍💻 Whoami
+                                             
 **Hello, my name is Esther.**
 
 I see technology the way an artist sees a canvas—full of patterns, structure, and possibility. As a software engineer, I’m driven to combine creativity and logic to build meaningful solutions that positively impact communities.
@@ -25,7 +24,3 @@ Email: esthernnyamburaa@gmail.com
 
 Feel free to reach out if you want to collaborate!
 
-<!---
-esthernkariuki/esthernkariuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
