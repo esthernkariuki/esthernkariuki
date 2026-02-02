@@ -1,15 +1,8 @@
 # Esther Nyambura Kariuki
 
-**Hello, my name is Esther.**
-╔══════════════════════════════════════════════════════════════════════╗
-║ I see technology the way an artist sees a canvas, full of patterns, ║
-║ structure, and possibility. As a software engineer, I'm driven to ║
-║ combine creativity and logic to build meaningful solutions that ║
-║ positively impact communities. ║
-╚══════════════════════════════════════════════════════════════════════╝
+# Hello, my name is Esther.
 
-
----
+ I see technology the way an artist sees a canvas, full of patterns, structure, and possibility. As a software engineer, I'm driven to combine creativity and logic to build meaningful solutions that positively impact communities.
 
 <div align="center">
 
