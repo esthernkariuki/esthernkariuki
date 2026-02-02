@@ -20,8 +20,6 @@ I am passionate about the intersection of creativity and dedicated to building i
 **Other:** AI-driven content generation, Geocoding APIs, Role-based Authentication  
 
 
-<div align="center">
-
 ## 📞 **Contact Me**
 
 | 🌐 **LinkedIn** | 📧 **Email** |
@@ -35,4 +33,3 @@ text
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=esthernkariuki&color=31859C&style=flat-square)](https://github.com/esthernkariuki)
 
-</div>
