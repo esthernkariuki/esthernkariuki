@@ -27,9 +27,8 @@ I am passionate about the intersection of creativity and dedicated to building i
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esther-nyambura-kariuki/) | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esthernnyamburaa@gmail.com) |
 
 😄 Pronouns: she/her
-💬 Feel free to reach out if you want to collaborate!
 
-text
+💬 Feel free to reach out if you want to collaborate!
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=esthernkariuki&color=31859C&style=flat-square)](https://github.com/esthernkariuki)
 
